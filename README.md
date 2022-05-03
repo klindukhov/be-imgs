@@ -5,3 +5,6 @@
 ## Instructions 
  - Run ``` serve -s``` in the ```be-imgs/build``` directory
  - Open localhost:3000 in a browser
+
+# Demo
+##### https://be-imgs.netlify.app/
